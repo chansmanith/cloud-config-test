@@ -1,7 +1,7 @@
 # Spring properties
 spring:
   application:
-    name: CloudAdmin  # Identify this application
+    name: Manith  # Identify this application
   boot:
     #Spring boot admin settings
     admin:
